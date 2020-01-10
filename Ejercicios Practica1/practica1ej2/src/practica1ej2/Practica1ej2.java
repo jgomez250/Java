@@ -1,6 +1,7 @@
 // Jose Antonio Gómez Piñero -- 1ºDAM -- 18/12/2019
 /*
 2. Leer 5 números y mostrarlos en orden inverso al introducido.
+.
 */
 package practica1ej2;
 
