@@ -9,7 +9,7 @@ import java.util.Scanner;
 public class Practicaej1 {
 
     public static void main(String[] args) {
-        Scanner input = new Scanner(System.in); // clase para que el usuario nos de inputs
+        Scanner input = new Scanner(System.in); /// clase para que el usuario nos de inputs
         short[] lista=new short [5]; //array de 5 elementos( 1 dimension )
         for (int i=0; i<5; i++){ // recorremos y hacemos que nos agregue al array lo que dijita
             System.out.println("Dame un número");
